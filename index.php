@@ -51,7 +51,7 @@
                 <li><a href="#">Agenda</a></li>
                 <li><a href="#">Galeria de Fotos</a></li>
                 <li><a href="#">Pastor e Equipe</a></li>
-                <li><a href="#">Pedido de Oração</a></li>
+                <li><a href="pedido_oracao.php">Pedido de Oração</a></li>
                 <li><a href="#">Sicam</a></li>
                 <li><a href="#">Moodle</a></li>
                 </ul>
