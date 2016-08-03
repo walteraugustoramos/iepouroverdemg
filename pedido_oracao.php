@@ -18,6 +18,16 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <!--Script Combobox Cidade e Estados-->
+    <script type="text/javascript">
+      window.onload = function() {
+          new dgCidadesEstados( 
+              document.getElementById('estado'), 
+              document.getElementById('cidade'), 
+              true
+          );
+      }
+    </script>
   </head>
   <body>
     <!--INICIO BANNER PLACA-->
@@ -121,6 +131,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
     <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+    <!-- Script Combobox Cidade e Estados -->
+    <script type="text/javascript" src="http://cidades-estados-js.googlecode.com/files/cidades-estados-v0.2.js"></script>
     <!--Script para controlar a velocidade do carousel de imagens da home e permitir avançar as imagens com as setas do teclado do usuario-->
     <script>
       $('.carousel').carousel({
