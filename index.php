@@ -112,7 +112,40 @@
           </div><!--carousel slide-->
         </div><!--col-md-10-->
       </div><!--row-->
-    </div><!--container-fluid-->     
+      
+      <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+          <center><h3>Nosso Canal no Youtube</h3></center>
+        </div>
+      </div>
+    </div><!--FIM container-fluid-->
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">    
+          <div class="col-md-4">
+            <center><p>1º Aniversário da IEP Ouro Verde/MG Parte I</p></center>
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ne8sMwrESOc" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+          
+          <div class="col-md-4">
+            <center><p>1° Aniversário da IEP Ouro Verde/MG Part II</p></center>
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oflyuZKco6A" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <center><p>2º Culto de Missões da IEP Ouro Verde/MG</p></center>
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jGzSZLOzclc" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div><!--FIM row-->
+    </div><!--FIM container-fluid-->     
 
     <!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

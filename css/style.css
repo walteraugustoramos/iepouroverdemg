@@ -6,3 +6,8 @@
 .navbar-default{
 	margin-bottom: 0px;/*Remove espaço entre o carousel de imagens e o menu da pagina home*/
 }
+
+/*Style Nosso Canal no Youtube*/
+.col-md-4 h3{
+	margin-top: 5%;
+}
