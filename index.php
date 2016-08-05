@@ -72,6 +72,7 @@
       <!--FIM MENU-->
     </nav><!--navbar-->
 
+    <!--INICIO CARROUSEL DE IMAGENS-->
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
@@ -112,15 +113,16 @@
           </div><!--carousel slide-->
         </div><!--col-md-10-->
       </div><!--row-->
-      
+    </div><!--FIM container-fluid-->
+    <!--FIM CARROUSEL DE IMAGENS-->
+    
+    <div class="container-fluid">
       <div class="row">
         <div class="col-md-4 col-md-offset-4">
-          <center><h3>Nosso Canal no Youtube</h3></center>
+          <center><h4>Nosso Canal no Youtube</h4></center>
         </div>
       </div>
-    </div><!--FIM container-fluid-->
 
-    <div class="container-fluid">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">    
           <div class="col-md-4">
