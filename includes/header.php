@@ -58,7 +58,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="index.php">Home</a></li>
-                <li><a href="#">Agenda</a></li>
+                <li><a href="agenda.php">Agenda</a></li>
                 <li><a href="#">Galeria de Fotos</a></li>
                 <li><a href="#">Pastor e Equipe</a></li>
                 <li><a href="pedido_oracao.php">Pedido de Oração</a></li>
