@@ -116,7 +116,7 @@
 							</div>
 						</div>
 
-						<div class="row" style="margin-top:1%;">
+						<div class="row" style="margin-top:1%;margin-bottom:1%;">
 							<div class="col-md-2 col-md-offset-2">
 								<button type="submit" class="btn btn-primary">Enviar</button>
 							</div>
@@ -126,18 +126,7 @@
 			</div>
 		</div>
 	</div>
-    <!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
-    <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
-    <!-- Script Combobox Cidade e Estados -->
-    <script type="text/javascript" src="http://cidades-estados-js.googlecode.com/files/cidades-estados-v0.2.js"></script>
-    <!--Script para controlar a velocidade do carousel de imagens da home e permitir avançar as imagens com as setas do teclado do usuario-->
-    <script>
-      $('.carousel').carousel({
-        interval:5000,
-        keyboard:true
-      })
-    </script>
-  </body>
-</html>
+    <!--Inclusão do rodapé-->
+    <?php
+      include 'includes/footer.php';
+    ?>
