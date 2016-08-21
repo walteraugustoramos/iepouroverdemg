@@ -16,3 +16,22 @@
 	background-color: #e0e0e0;
 	text-align: center;
 }
+
+/*Style Galeria de Fotos*/
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
+}
+
+#carousel-bounding-box{
+	margin-top: 5%;
+}
