@@ -16,19 +16,19 @@
 
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="img/quartas-feiras.jpg" alt="">
+                <img src="img/carousel/quartas-feiras.jpg" alt="">
               </div>
               
               <div class="item">
-                <img src="img/quintas-feiras.jpg" alt="">
+                <img src="img/carousel/quintas-feiras.jpg" alt="">
               </div>
 
               <div class="item">
-                <img src="img/sabados.jpg" alt="">
+                <img src="img/carousel/sabados.jpg" alt="">
               </div>
 
               <div class="item">
-                <img src="img/domingos.jpg" alt="">
+                <img src="img/carousel/domingos.jpg" alt="">
               </div>
 
             </div><!--carousel inner-->
