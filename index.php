@@ -89,15 +89,15 @@
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
           <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupo-adoradores-do-rei.jpg" alt="">
+            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-do-rei.jpg" alt="">
           </div>
 
           <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupo-adoradores-por-excelencia.jpg" alt="">
+            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-por-excelencia.jpg" alt="">
           </div>
 
           <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupo-lirio-dos-vales.jpg" alt="">
+            <img class="img-responsive thumbnail" src="img/grupos/grupo-lirio-dos-vales.jpg" alt="">
           </div>
         </div>
       </div>
