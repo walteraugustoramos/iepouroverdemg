@@ -54,8 +54,8 @@
       <!--INICIO MENU-->
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-8 col-md-offset-2">
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <div class="col-md-10 col-md-offset-2">
+            <div class="collapse navbar-collapse menu" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="index.php">Home</a></li>
                 <li><a href="sobre.php">Sobre</a></li>
