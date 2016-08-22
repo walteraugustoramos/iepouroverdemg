@@ -17,6 +17,13 @@
 			</a>
 			<center><p>2° Culto de Missões</p></center>
 		</div>
+
+		<div class="col-md-3">
+			<a href="iep_ouro_verde.php">
+				<img src="img/galeria_fotos/iep/img-capa.jpg" alt="" class="img-responsive img-thumbnail">
+			</a>
+			<center><p>Iep Ouro Verde de Minas</p></center>
+		</div>
 	</div>
 </div>
 
