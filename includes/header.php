@@ -61,7 +61,7 @@
                 <li><a href="sobre.php">Sobre</a></li>
                 <li><a href="agenda.php">Agenda</a></li>
                 <li><a href="galeria_fotos.php">Galeria de Fotos</a></li>
-                <li><a href="#">Pastor e Equipe</a></li>
+                <li><a href="pastor_equipe.php">Pastor e Equipe</a></li>
                 <li><a href="pedido_oracao.php">Pedido de Oração</a></li>
                 <li><a href="#">Sicam</a></li>
                 <li><a href="#">Moodle</a></li>
