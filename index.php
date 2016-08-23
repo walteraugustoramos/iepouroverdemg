@@ -90,14 +90,17 @@
         <div class="col-md-10 col-md-offset-1">
           <div class="col-md-4">
             <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-do-rei.jpg" alt="">
+            <center><h4>Adoradores do Rei</h4></center>
           </div>
 
           <div class="col-md-4">
             <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-por-excelencia.jpg" alt="">
+            <center><h4>Adoradores por Excelência</h4></center>
           </div>
 
           <div class="col-md-4">
             <img class="img-responsive thumbnail" src="img/grupos/grupo-lirio-dos-vales.jpg" alt="">
+            <center><h4>Lírio dos Vales</h4></center>
           </div>
         </div>
       </div>
