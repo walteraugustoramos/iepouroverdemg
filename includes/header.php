@@ -19,15 +19,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <!--Script Combobox Cidade e Estados-->
-    <script type="text/javascript">
-      window.onload = function() {
-          new dgCidadesEstados( 
-              document.getElementById('estado'), 
-              document.getElementById('cidade'), 
-              true
-          );
-      }
-    </script>
+    <script language="JavaScript" type="text/javascript" src="js/cidades-estados-1.4-utf8.js"></script>
   </head>
   <body>
     <!--INICIO BANNER PLACA-->
