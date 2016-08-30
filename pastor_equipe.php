@@ -14,7 +14,7 @@
 		<div class="col-md-2 col-md-offset-1">
 			<center>
 				<img src="img//fotos_membros/paulo_ribeiro.jpg" alt="" class="img-responsive img-circle" width="150">
-				<strong><p>Ev. Paulo Henrique Ribeiro</p></strong>
+				<strong><p>Pr. Paulo Henrique Ribeiro</p></strong>
 			</center>
 		</div>
 
@@ -127,37 +127,43 @@
 	</div>
 
 	<div class="row">
-		<div class="col-md-6 col-md-offset-3">
+		<div class="col-md-8 col-md-offset-2">
 			<div class="table-responsive">
 				<table class="table table-bordered table-hover">
 					<tr align="center">
 						<td>Ana Luiza Gomes de Souza</td>
 						<td>Lucas Alves de Oliveira</td>
+						<td>Viviane Gomes da Silva</td>
 					</tr>
 
 					<tr align="center">
 						<td>Alciene Jesus Pereira</td>
+						<td>Eva Viana dos Santos</td>
 						<td>Luan Alves de Oliveira</td>
 					</tr>
 					
 					<tr align="center">
 						<td>Brenda Teixeira Batista</td>
 						<td>Maria Aparecida Batista de Souza</td>
+						<td>Estefani Teixeira Batista</td>
 					</tr>
 
 					<tr align="center">
 						<td>Carlos Roberto Rodrigo Ferreira</td>
 						<td>Maria de Lurdes Ribeiro Soares</td>
+						<td>Edriana Gomes de Souza</td>
 					</tr>
 
 					<tr align="center">
 						<td>Cleumaiquer Deacis Gomes Alecrim</td>
 						<td>Raquel Rodrigues Vieira</td>
+						<td>Valdomiro Gomes da Rocha</td>	
 					</tr>
 
 					<tr align="center">
 						<td>Conceição Vieira dos Santos</td>
 						<td>Rhuan Henrique Pereira Silva</td>
+						<td>Gilda Pereira da Silva</td>
 					</tr>
 
 					<tr align="center">
@@ -169,21 +175,6 @@
 						<td>Deusdete Gomes Pego</td>
 						<td>Teodolino Souza Oliveira</td>
 					</tr>
-
-					<tr align="center">
-						<td>Edriana Gomes de Souza</td>
-						<td>Valdomiro Gomes da Rocha</td>	
-					</tr>
-
-					<tr align="center">
-						<td>Estefani Teixeira Batista</td>
-						<td>Viviane Gomes da Silva</td>						
-					</tr>
-
-					<tr align="center">
-						<td>Eva Viana dos Santos</td>
-					</tr>
-					
 				</table>
 			</div><!--End Table-responsive-->
 		</div>

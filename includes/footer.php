@@ -8,7 +8,7 @@
               <p>Igreja Evangélica Pentecostal</p>
               <p>Rua Santa Izabel, n° 225, Centro</p>
               <p>Ouro verde de minas - Cep 39.855-000</p>
-              <p>Ev. Paulo Henrique Ribeiro</p>
+              <p>Pr. Paulo Henrique Ribeiro</p>
               <p>Tel/Whatsapp: (33)988792993</p>
               <p>Email: iep.ouroverdemg@gmail.com</p>
             </address>
