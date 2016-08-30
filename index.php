@@ -12,11 +12,13 @@
               <li data-target="#carousel" data-slide-to="1"></li>
               <li data-target="#carousel" data-slide-to="2"></li>
               <li data-target="#carousel" data-slide-to="3"></li>
+              <li data-target="#carousel" data-slide-to="4"></li>
+              <li data-target="#carousel" data-slide-to="5"></li>
             </ol><!--carousel indicators-->
 
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="img/carousel/quartas-feiras.jpg" alt="">
+                <img src="img/carousel/campanha-quartas-feiras.jpg" alt="">
               </div>
               
               <div class="item">
@@ -29,6 +31,14 @@
 
               <div class="item">
                 <img src="img/carousel/domingos.jpg" alt="">
+              </div>
+
+              <div class="item">
+                <img src="img/carousel/dizimista-fiel.jpg" alt="">
+              </div>
+
+              <div class="item">
+                <img src="img/carousel/orar-e-clamar.jpg" alt="">
               </div>
 
             </div><!--carousel inner-->
