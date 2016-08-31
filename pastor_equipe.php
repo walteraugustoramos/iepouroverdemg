@@ -163,7 +163,7 @@
 					<tr align="center">
 						<td>Conceição Vieira dos Santos</td>
 						<td>Rhuan Henrique Pereira Silva</td>
-						<td>Gilda Pereira da Silva</td>
+						<td>Gilda Pereira dos Santos</td>
 					</tr>
 
 					<tr align="center">
