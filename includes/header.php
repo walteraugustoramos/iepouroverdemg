@@ -46,7 +46,7 @@
       <!--INICIO MENU-->
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-11 col-md-offset-1">
+          <div class="col-md-12">
             <div class="collapse navbar-collapse menu" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="home.php">Home</a></li>
@@ -58,6 +58,8 @@
                 <li><a href="#">Sicam</a></li>
                 <li><a href="#">Curso ADM</a></li>
                 <li><a href="estudos_biblicos.php">Estudos Biblicos</a></li>
+                <li><a href="mensagem_pastor.php">Mensagem do Pastor</a></li>
+
                 </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- col-md-8 col-md-offset-2 -->
