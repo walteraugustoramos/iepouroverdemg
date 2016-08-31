@@ -5,12 +5,12 @@
           <div class="col-md-4">
             <address>
               <h4>Venha nos Visitar</h4>
-              <p>Igreja Evangélica Pentecostal</p>
-              <p>Rua Santa Izabel, n° 225, Centro</p>
-              <p>Ouro verde de minas - Cep 39.855-000</p>
-              <p>Pr. Paulo Henrique Ribeiro</p>
-              <p>Tel/Whatsapp: (33)988792993</p>
-              <p>Email: iep.ouroverdemg@gmail.com</p>
+              <span>Igreja Evangélica Pentecostal</span></br>
+              <span>Rua Santa Izabel, n° 225, Centro</span></br>
+              <span>Ouro Verde de Minas - Cep 39.855-000</span></br>
+              <span>Pr. Paulo Henrique Ribeiro</span></br>
+              <span>Tel/Whatsapp: (33)988792993</span></br>
+              <span>Email: iep.ouroverdemg@gmail.com</span>
             </address>
           </div>
         </div>
