@@ -1,122 +1,18 @@
-<!--Inclusão do header-->
-<?php
-  include 'includes/header.php';
-?>
-    <!--INICIO CARROUSEL DE IMAGENS-->
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-          <div id="carousel" class="carousel slide">
-            <ol class="carousel-indicators">
-              <li data-target="#carousel" data-slide-to="0" class="active"></li>
-              <li data-target="#carousel" data-slide-to="1"></li>
-              <li data-target="#carousel" data-slide-to="2"></li>
-              <li data-target="#carousel" data-slide-to="3"></li>
-              <li data-target="#carousel" data-slide-to="4"></li>
-              <li data-target="#carousel" data-slide-to="5"></li>
-            </ol><!--carousel indicators-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Igreja Evangelica Pentecostal</title>
+		<frameset rows="5%,*" frameborder="0">
+			<frame src="players/index.php?skin=flash" noresize="no" scrolling="no"></frame>
+			<frame src="home.php"></frame>
+		</frameset>
+	</head>
+	<body>
 
-            <div class="carousel-inner" role="listbox">
-              <div class="item active">
-                <img src="img/carousel/campanha-quartas-feiras.jpg" alt="">
-              </div>
-              
-              <div class="item">
-                <img src="img/carousel/quintas-feiras.jpg" alt="">
-              </div>
-
-              <div class="item">
-                <img src="img/carousel/sabados.jpg" alt="">
-              </div>
-
-              <div class="item">
-                <img src="img/carousel/domingos.jpg" alt="">
-              </div>
-
-              <div class="item">
-                <img src="img/carousel/dizimista-fiel.jpg" alt="">
-              </div>
-
-              <div class="item">
-                <img src="img/carousel/orar-e-clamar.jpg" alt="">
-              </div>
-
-            </div><!--carousel inner-->
-
-            <a href="#carousel" class="left carousel-control" data-slide="prev">
-              <i class="glyphicon glyphicon-chevron-left"></i>
-            </a>
-
-            <a href="#carousel" class="right carousel-control" data-slide="next">
-              <i class="glyphicon glyphicon-chevron-right"></i>
-            </a>
-          </div><!--carousel slide-->
-        </div><!--col-md-10-->
-      </div><!--row-->
-    </div><!--FIM container-fluid-->
-    <!--FIM CARROUSEL DE IMAGENS-->
-    
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-4 col-md-offset-4">
-          <center><h4>Nosso Canal no Youtube</h4></center>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1">    
-          <div class="col-md-4">
-            <center><p>1º Aniversário da IEP Ouro Verde/MG Parte I</p></center>
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ne8sMwrESOc" frameborder="0" allowfullscreen></iframe>
-            </div>
-          </div>
-          
-          <div class="col-md-4">
-            <center><p>1° Aniversário da IEP Ouro Verde/MG Part II</p></center>
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oflyuZKco6A" frameborder="0" allowfullscreen></iframe>
-            </div>
-          </div>
-
-          <div class="col-md-4">
-            <center><p>2º Culto de Missões da IEP Ouro Verde/MG</p></center>
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jGzSZLOzclc" frameborder="0" allowfullscreen></iframe>
-            </div>
-          </div>
-        </div>
-      </div><!--FIM row-->
-    </div><!--FIM container-fluid-->
-
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-4 col-md-offset-4">
-          <center><h4>Grupos da IEP Ouro Verde de Minas</h4></center>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-          <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-do-rei.jpg" alt="">
-            <center><h4>Adoradores do Rei</h4></center>
-          </div>
-
-          <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-por-excelencia.jpg" alt="">
-            <center><h4>Adoradores por Excelência</h4></center>
-          </div>
-
-          <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupos/grupo-lirio-dos-vales.jpg" alt="">
-            <center><h4>Lírio dos Vales</h4></center>
-          </div>
-        </div>
-      </div>
-    </div><!--FIM container-fluid-->
-    
-    <!--Inclusão do rodapé-->
-    <?php
-      include 'includes/footer.php';
-    ?>
+	</body>
+</html>
+<!--
+sem_rtmp
+html5
+flash
+-->

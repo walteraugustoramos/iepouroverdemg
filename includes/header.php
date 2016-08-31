@@ -49,7 +49,7 @@
           <div class="col-md-11 col-md-offset-1">
             <div class="collapse navbar-collapse menu" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="index.php">Home</a></li>
+                <li class="active"><a href="home.php">Home</a></li>
                 <li><a href="sobre.php">Sobre</a></li>
                 <li><a href="agenda.php">Agenda</a></li>
                 <li><a href="galeria_fotos.php">Galeria de Fotos</a></li>
