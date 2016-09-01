@@ -13,8 +13,17 @@
               <span>Email: iep.ouroverdemg@gmail.com</span>
             </address>
           </div>
-        </div>
-      </div>
+
+          <div class="col-md-4 col-md-offset-4">
+            <h4>Curta Nossa Fan Page</h4>
+            <div class="fb-page" data-href="https://www.facebook.com/Igreja-Evangelica-Petencostal-1620446141555587/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+              <blockquote cite="https://www.facebook.com/Igreja-Evangelica-Petencostal-1620446141555587/" class="fb-xfbml-parse-ignore">
+                <a href="https://www.facebook.com/Igreja-Evangelica-Petencostal-1620446141555587/">Igreja Evangelica Petencostal</a>
+              </blockquote>
+            </div>
+          </div>
+        </div><!--Fim col-md-12-->
+      </div><!--Fim row-->
 
       <div class="row">
         <div class="col-md-4 col-md-offset-4">
@@ -48,7 +57,6 @@
         $('#myCarousel').carousel({
                 interval: 5000
         });
-
         //Handles the carousel thumbnails
         $('[id^=carousel-selector-]').click(function () {
           var id_selector = $(this).attr("id");
@@ -66,6 +74,17 @@
                 $('#carousel-text').html($('#slide-content-'+id).html());
         });
       });
+    </script>
+
+    <div id="fb-root"></div>
+    <script>
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.7";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
     </script>
   </body>
 </html
