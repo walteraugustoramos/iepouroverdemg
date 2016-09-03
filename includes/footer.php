@@ -37,6 +37,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
     <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+    <!--Inclui os arquivos javascript bootstrap-validator-->
+    <script src="bootstrap-validator-master/js/validator.js"></script>
     <!--Script Combobox Cidade e Estados-->
     <script language="JavaScript" type="text/javascript" charset="utf-8">
       new dgCidadesEstados({

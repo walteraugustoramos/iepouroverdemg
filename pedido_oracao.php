@@ -40,35 +40,45 @@
         <fieldset>
           <legend><center>Faça Seu Pedido De Oração</center></legend>
 
-          <form action="enviar_pedido_oracao.php" method="post">
+          <form action="enviar_pedido_oracao.php" method="post" data-toggle="validator">
             <div class="row">
-              <div class="col-md-4 col-md-offset-2">
+              <div class="col-md-4 col-md-offset-2 form-group has-feedback">
                 <label for="nome">Nome: </label>
-                <input type="text" name="nome" class="form-control" placeholder="Nome Completo" autofocus required>
+                <input type="text" name="nome" class="form-control" placeholder="Nome Completo" autofocus required data-error="Preencha este campo">
+                <span class="glyphicon form-control-feedback"></span>
+                <small class="help-block with-errors">Por favor seu nome completo</small>
               </div>
 
-              <div class="col-md-4">
+              <div class="col-md-4 form-group has-feedback">
                 <label for="email">Email: </label>
-                <input type="email" name="email" class="form-control" placeholder="Email" required>
+                <input type="email" name="email" class="form-control" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" placeholder="Email" required data-error="Preencha este campo">
+                <span class="glyphicon form-control-feedback"></span>
+                <small class="help-block with-errors">Por favor seu melhor e-mail</small>
               </div>
             </div>
 
             <div class="row">
-              <div class="col-md-4 col-md-offset-2">
+              <div class="col-md-4 col-md-offset-2 form-group has-feedback">
                 <label for="estado">Estado: </label>
-                <select id="estado" name="estado" class="form-control" required></select>
+                <select id="estado" name="estado" class="form-control" required data-error="Selecione um estado"></select>
+                <span class="glyphicon form-control-feedback"></span>
+                <small class="help-block with-errors">Por favor selecione o estado onde você mora</small>
               </div>
 
-              <div class="col-md-4">
+              <div class="col-md-4 form-group has-feedback">
                 <label for="cidade">Cidade: </label>
-                <select id="cidade" name="cidade" class="form-control" required></select>
+                <select id="cidade" name="cidade" class="form-control" required data-error="Selecione uma cidade"></select>
+                 <span class="glyphicon form-control-feedback"></span>
+                <small class="help-block with-errors">Por favor selecione a cidade onde você mora</small>
               </div>
             </div>
 
             <div class="row">
-              <div class="col-md-4 col-md-offset-2">
+              <div class="col-md-4 col-md-offset-2 form-group has-feedback">
                 <label for="pedido">Pedido: </label>
-                <textarea name="pedido" class="form-control" id="pedido" cols="30" rows="10" required></textarea>
+                <textarea name="pedido" class="form-control" id="pedido" cols="30" rows="10" required data-error="Digite o seu pedido de oração"></textarea>
+                 <span class="glyphicon form-control-feedback"></span>
+                 <small class="help-block with-errors">Por favor digite seu pedido de oração</small>
               </div>
             </div>
 
