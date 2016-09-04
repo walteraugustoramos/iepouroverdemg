@@ -82,7 +82,7 @@
               </div>
             </div>
 
-            <div class="row" style="margin-top:1%;margin-bottom:1%;">
+            <div class="row" style="margin-bottom:1%;">
               <div class="col-md-2 col-md-offset-2">
                 <button type="submit" class="btn btn-primary">Enviar</button>
               </div>
