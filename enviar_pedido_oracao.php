@@ -62,6 +62,7 @@
 		<p><b>Estado</b>: $estado</p>
 		<p><b>Cidade</b>: $cidade</p>
 		<p><b>Pedido Oração</b>: $pedido</p>
+		<p>“A oração de um justo pode muito em seus efeitos” (Tiago 5.16).</p>
 		";
 
 		// Envia o e-mail e captura o sucesso ou erro
