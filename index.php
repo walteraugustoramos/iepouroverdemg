@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link rel="shortcut icon" href="img/iep.png" />
 		<title>Igreja Evangelica Pentecostal</title>
 		<frameset rows="5%,*" frameborder="0">
 			<frame src="players/index.php?skin=flash" noresize="no" scrolling="no"></frame>
