@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- As 3 meta tags acima *devem* vir em primeiro lugar dentro do `head`; qualquer outro conteúdo deve vir *após* essas tags -->
+    <meta name="description" content="Site da Igreja Evangelica Pentecostal de Ouro Verde de Minas">
+    <meta name=”keywords” content=”iep,iepov,pentecostal,igreja”>
+    <meta name="author" content="Augusto Ramos">
     <link rel="shortcut icon" href="img/iep.png" />
     <title>Igreja Evangelica Pentecostal Ouro Verde de Minas</title>
     
@@ -27,7 +30,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <img src="img/placa.jpg" alt="" class="img-responsive" height="170px" width="100%">
+          <img src="img/placa.jpg" alt="Igreja Evangelica Pentencostal Ouro Verde de Minas" class="img-responsive" height="170px" width="100%">
         </div>
       </div>
     </div>

@@ -6,7 +6,7 @@
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
-			<img src="img/sobre.jpg" alt="" width="100%" class="img-responsive">
+			<img src="img/sobre.jpg" alt="História da Igreja Evangelica Pentecostal" width="100%" class="img-responsive">
 		</div>
 	</div>
 </div>

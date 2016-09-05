@@ -18,27 +18,27 @@
 
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="img/carousel/campanha-quartas-feiras.jpg" alt="">
+                <img src="img/carousel/campanha-quartas-feiras.jpg" alt="Campanha de Quartas-Feiras">
               </div>
               
               <div class="item">
-                <img src="img/carousel/quintas-feiras.jpg" alt="">
+                <img src="img/carousel/quintas-feiras.jpg" alt="Culto Quintas-Feiras">
               </div>
 
               <div class="item">
-                <img src="img/carousel/sabados.jpg" alt="">
+                <img src="img/carousel/sabados.jpg" alt="Culto Sabados">
               </div>
 
               <div class="item">
-                <img src="img/carousel/domingos.jpg" alt="">
+                <img src="img/carousel/domingos.jpg" alt="Escola Biblica e Culto aos Domingos">
               </div>
 
               <div class="item">
-                <img src="img/carousel/dizimista-fiel.jpg" alt="">
+                <img src="img/carousel/dizimista-fiel.jpg" alt="Campanha Dizimista Fiel">
               </div>
 
               <div class="item">
-                <img src="img/carousel/orar-e-clamar.jpg" alt="">
+                <img src="img/carousel/orar-e-clamar.jpg" alt="Campanha Orar e Clamar">
               </div>
 
             </div><!--carousel inner-->
@@ -99,17 +99,17 @@
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
           <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-do-rei.jpg" alt="">
+            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-do-rei.jpg" alt="Grupo Adoradores do Rei">
             <center><h4>Adoradores do Rei</h4></center>
           </div>
 
           <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-por-excelencia.jpg" alt="">
+            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-por-excelencia.jpg" alt="Adoradores por Excelência">
             <center><h4>Adoradores por Excelência</h4></center>
           </div>
 
           <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupos/grupo-lirio-dos-vales.jpg" alt="">
+            <img class="img-responsive thumbnail" src="img/grupos/grupo-lirio-dos-vales.jpg" alt="Grupo Lírio dos Vales">
             <center><h4>Lírio dos Vales</h4></center>
           </div>
         </div>

@@ -6,7 +6,7 @@
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3">
-			<img src="img/construcao/em-construcao.png" alt="" class="img-responsive">
+			<img src="img/construcao/em-construcao.png" alt="Página em Construção" class="img-responsive">
 		</div>
 	</div>
 </div>

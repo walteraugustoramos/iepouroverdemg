@@ -13,35 +13,35 @@
 	<div class="row">
 		<div class="col-md-2 col-md-offset-1">
 			<center>
-				<img src="img//fotos_membros/paulo_ribeiro.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img//fotos_membros/paulo_ribeiro.jpg" alt="Pr. Paulo Henrique Ribeiro" class="img-responsive img-circle" width="150">
 				<strong><p>Pr. Paulo Henrique Ribeiro</p></strong>
 			</center>
 		</div>
 
 		<div class="col-md-2">
 				<center>
-				<img src="img/fotos_membros/celson_gomes.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/celson_gomes.jpg" alt="Celson Gomes" class="img-responsive img-circle" width="150">
 				<strong><p>2°Dir. Celson Gomes</p></strong>
 				</center>
 		</div>
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/eliciano_luiz.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/eliciano_luiz.jpg" alt="Eliciano Luiz Lopes" class="img-responsive img-circle" width="150">
 				<strong><p>Presb. Eliciano Luiz Lopes</p></strong>
 			</center>
 		</div>
 		
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/edna_pereira.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/edna_pereira.jpg" alt="Edna Pereira" class="img-responsive img-circle" width="150">
 				<strong><p>1°Secr./1°Tes. Edna Pereira</p></strong>
 			</center>
 		</div>
 		
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/niuza_pereira.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/niuza_pereira.jpg" alt="Niuza Coelho" class="img-responsive img-circle" width="150">
 				<strong><p>2°Secr./2°Tes. Niuza Coelho</p></strong>
 			</center>
 		</div>
@@ -56,35 +56,35 @@
 	<div class="row">
 		<div class="col-md-2 col-md-offset-1">
 			<center>
-				<img src="img/fotos_membros/dejanira_goncalves.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/dejanira_goncalves.jpg" alt="Dejanira Gonçalves" class="img-responsive img-circle" width="150">
 				<strong><p>Dejanira Gonçalves</p></strong>
 			</center>
 		</div>
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/elvira_costa.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/elvira_costa.jpg" alt="Elvira da Costa" class="img-responsive img-circle" width="150">
 				<strong><p>Elvira da Costa</p></strong>
 			</center>
 		</div>
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/leonora_ferreira.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/leonora_ferreira.jpg" alt="Leonora Ferreira" class="img-responsive img-circle" width="150">
 				<strong><p>Leonora Ferreira</p></strong>
 			</center>
 		</div>
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/maria_ferreira.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/maria_ferreira.jpg" alt="Maria Ferreira" class="img-responsive img-circle" width="150">
 				<strong><p>Maria Ferreira</p></strong>
 			</center>
 		</div>
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/miguel_feliciano.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/miguel_feliciano.jpg" alt="Miguel Feliciano" class="img-responsive img-circle" width="150">
 				<strong><p>Miguel Feliciano</p></strong>
 			</center>
 		</div>
@@ -93,28 +93,28 @@
 	<div class="row">
 		<div class="col-md-2 col-md-offset-1">
 			<center>
-				<img src="img/fotos_membros/silvia_rodrigues.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/silvia_rodrigues.jpg" alt="Silvia Rodrigues" class="img-responsive img-circle" width="150">
 				<strong><p>Silvia Rodrigues</p></strong>
 			</center>
 		</div>
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/maria_das_gracas.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/maria_das_gracas.jpg" alt="Maria das Graças" class="img-responsive img-circle" width="150">
 				<strong><p>Maria das Graças</p></strong>
 			</center>
 		</div>
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/altino_pereira.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/altino_pereira.jpg" alt="Altino Pereira" class="img-responsive img-circle" width="150">
 				<strong><p>Altino Pereira</p></strong>
 			</center>
 		</div>
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/maria_ramos.jpg" alt="" class="img-responsive img-circle" width="150">
+				<img src="img/fotos_membros/maria_ramos.jpg" alt="Maria Ramos" class="img-responsive img-circle" width="150">
 				<strong><p>Maria Ramos</p></strong>
 			</center>
 		</div>
