@@ -14,10 +14,15 @@
               <li data-target="#carousel" data-slide-to="3"></li>
               <li data-target="#carousel" data-slide-to="4"></li>
               <li data-target="#carousel" data-slide-to="5"></li>
+              <li data-target="#carousel" data-slide-to="6"></li>
             </ol><!--carousel indicators-->
 
             <div class="carousel-inner" role="listbox">
               <div class="item active">
+                <img src="img/carousel/congresso-circulo-de-oracao.jpg" alt="Congresso Circulo de Oração">
+              </div>
+
+              <div class="item">
                 <img src="img/carousel/campanha-quartas-feiras.jpg" alt="Campanha de Quartas-Feiras">
               </div>
               
