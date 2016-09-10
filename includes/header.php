@@ -30,7 +30,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <img src="img/placa.jpg" alt="Igreja Evangelica Pentencostal Ouro Verde de Minas" class="img-responsive" height="170px" width="100%">
+          <img src="img/placa-2016.jpg" alt="Igreja Evangelica Pentencostal Ouro Verde de Minas" class="img-responsive" height="170px" width="100%">
         </div>
       </div>
     </div>
