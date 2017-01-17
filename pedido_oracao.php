@@ -9,7 +9,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
-        <img src="img/pedido-de-oracao.jpg" class="img-responsive" alt="Pedido de Oração" height="200" width="100%">
+        <img src="img/pedido_oracao_2017.jpg" class="img-responsive" alt="Pedido de Oração" height="200" width="100%">
       </div>
     </div>
     
