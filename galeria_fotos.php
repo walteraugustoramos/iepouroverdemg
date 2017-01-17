@@ -24,6 +24,13 @@
 			</a>
 			<center><p>Iep Ouro Verde de Minas</p></center>
 		</div>
+
+		<div class="col-md-3">
+			<a href="primeiro_curso_adm_iepov.php">
+				<img src="img/galeria_fotos/curso_adm_iepov/img-capa.jpg" alt="Curso Assistente Administrativo e Financeiro IEPOV" class="img-responsive img-thumbnail">
+			</a>
+			<center><p>1ª. Turma de Alunos do Curso Assist. Adm. e Financeiro da IEP – Ouro Verde/MG</p></center>
+		</div>
 	</div>
 </div>
 

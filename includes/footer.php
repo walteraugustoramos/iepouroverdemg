@@ -18,7 +18,7 @@
             <h4>Curta Nossa Fan Page</h4>
             <div class="fb-page" data-href="https://www.facebook.com/Igreja-Evangelica-Petencostal-1620446141555587/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
               <blockquote cite="https://www.facebook.com/Igreja-Evangelica-Petencostal-1620446141555587/" class="fb-xfbml-parse-ignore">
-                <a href="https://www.facebook.com/Igreja-Evangelica-Petencostal-1620446141555587/">Igreja Evangelica Petencostal</a>
+                <a href="https://www.facebook.com/Igreja-Evangelica-Petencostal-1620446141555587/">Igreja Evangelica Pentecostal</a>
               </blockquote>
             </div>
           </div>
@@ -36,7 +36,7 @@
     <!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
-    <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+    <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
     <!--Inclui os arquivos javascript bootstrap-validator-->
     <script src="bootstrap-validator-master/js/validator.js"></script>
     <!--Script Combobox Cidade e Estados-->

@@ -12,7 +12,7 @@
     <title>Igreja Evangelica Pentecostal Ouro Verde de Minas</title>
     
     <!-- Bootstrap -->
-    <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!--Css-->
     <link rel="stylesheet" href="css/style.css">
@@ -30,7 +30,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <img src="img/placa-2016.jpg" alt="Igreja Evangelica Pentencostal Ouro Verde de Minas" class="img-responsive" height="170px" width="100%">
+          <img src="img/placa-2017.jpg" alt="Igreja Evangelica Pentencostal Ouro Verde de Minas" class="img-responsive" width="100%">
         </div>
       </div>
     </div>
@@ -50,7 +50,7 @@
       <!--INICIO MENU-->
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-12">
+          <div class="col-md-11 col-md-offset-1">
             <div class="collapse navbar-collapse menu" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="home.php">Home</a></li>
@@ -59,11 +59,9 @@
                 <li><a href="galeria_fotos.php">Galeria de Fotos</a></li>
                 <li><a href="pastor_equipe.php">Pastor e Equipe</a></li>
                 <li><a href="pedido_oracao.php">Pedido de Oração</a></li>
-                <li><a href="#">Sicam</a></li>
-                <li><a href="#">Curso ADM</a></li>
+                <li><a href="sicam/index.php" target="_blanck">Sicam</a></li>
                 <li><a href="estudos_biblicos.php">Estudos Biblicos</a></li>
                 <li><a href="mensagem_pastor.php">Mensagem do Pastor</a></li>
-
                 </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- col-md-8 col-md-offset-2 -->

@@ -15,28 +15,23 @@
               <li data-target="#carousel" data-slide-to="4"></li>
               <li data-target="#carousel" data-slide-to="5"></li>
               <li data-target="#carousel" data-slide-to="6"></li>
-              <li data-target="#carousel" data-slide-to="7"></li>
             </ol><!--carousel indicators-->
 
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="img/carousel/nossa-programacao.jpg" alt="Nossa Programação">
-              </div>
-              
-              <div class="item">
-                <img src="img/carousel/congresso-circulo-de-oracao.jpg" alt="Congresso Circulo de Oração">
+                <img src="img/carousel/nossa-programacao-2017.png" alt="Nossa Programação Igreja Evangelica Pentecostal Ouro Verde de Minas">
               </div>
 
               <div class="item">
-                <img src="img/carousel/campanha-quartas-feiras.jpg" alt="Campanha de Quartas-Feiras">
-              </div>
+                <img src="img/carousel/agenda-2017-carrousel.jpg" alt="Agenda da Igreja Evangelica Pentecostal de Ouro Verde de Minas">
+              </div>              
               
               <div class="item">
-                <img src="img/carousel/quintas-feiras.jpg" alt="Culto Quintas-Feiras">
+                <img src="img/carousel/quintas-feiras-2017.jpg" alt="Culto Quintas-Feiras">
               </div>
 
               <div class="item">
-                <img src="img/carousel/sabados.jpg" alt="Culto Sabados">
+                <img src="img/carousel/sabados-2017.jpg" alt="Culto Sabados">
               </div>
 
               <div class="item">
@@ -109,8 +104,8 @@
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
           <div class="col-md-4">
-            <img class="img-responsive thumbnail" src="img/grupos/grupo-adoradores-do-rei.jpg" alt="Grupo Adoradores do Rei">
-            <center><h4>Adoradores do Rei</h4></center>
+            <img class="img-responsive thumbnail" src="img/grupos/grupo-chama-de-louvor.jpg" alt="Grupo Chama de Louvor">
+            <center><h4>Chama de Louvor</h4></center>
           </div>
 
           <div class="col-md-4">

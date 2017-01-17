@@ -27,8 +27,8 @@
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/eliciano_luiz.jpg" alt="Eliciano Luiz Lopes" class="img-responsive img-circle" width="150">
-				<strong><p>Presb. Eliciano Luiz Lopes</p></strong>
+				<img src="img/fotos_membros/jose_marcio_gomes.jpg" alt="Jose Marcio Gomes" class="img-responsive img-circle" width="150">
+				<strong><p>Presb. Jose Marcio Gomes</p></strong>
 			</center>
 		</div>
 		
@@ -41,8 +41,8 @@
 		
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/niuza_pereira.jpg" alt="Niuza Coelho" class="img-responsive img-circle" width="150">
-				<strong><p>2°Secr./2°Tes. Niuza Coelho</p></strong>
+				<img src="img/fotos_membros/rosa_pacheco_silva.jpg" alt="Rosa da Silva Pacheco" class="img-responsive img-circle" width="150">
+				<strong><p>2°Secr./2°Tes. Rosa Pacheco</p></strong>
 			</center>
 		</div>
 	</div><!--End Row-->
@@ -56,8 +56,8 @@
 	<div class="row">
 		<div class="col-md-2 col-md-offset-1">
 			<center>
-				<img src="img/fotos_membros/dejanira_goncalves.jpg" alt="Dejanira Gonçalves" class="img-responsive img-circle" width="150">
-				<strong><p>Dejanira Gonçalves</p></strong>
+				<img src="img/fotos_membros/mauricio-ramos.jpg" alt="Mauricio Ramos" class="img-responsive img-circle" width="150">
+				<strong><p>Mauricio Ramos</p></strong>
 			</center>
 		</div>
 
@@ -100,8 +100,8 @@
 
 		<div class="col-md-2">
 			<center>
-				<img src="img/fotos_membros/maria_das_gracas.jpg" alt="Maria das Graças" class="img-responsive img-circle" width="150">
-				<strong><p>Maria das Graças</p></strong>
+				<img src="img/fotos_membros/ines-santos.jpg" alt="Inês Santos" class="img-responsive img-circle" width="150">
+				<strong><p>Inês Santos</p></strong>
 			</center>
 		</div>
 
@@ -118,6 +118,13 @@
 				<strong><p>Maria Ramos</p></strong>
 			</center>
 		</div>
+
+		<div class="col-md-2">
+			<center>
+				<img src="img/fotos_membros/niuza_pereira.jpg" alt="Niuza Coelho" class="img-responsive img-circle" width="150">
+				<strong><p>Niuza Coelho</p></strong>
+			</center>
+		</div>
 	</div><!--End Row-->
 
 	<div class="row">
@@ -132,48 +139,48 @@
 				<table class="table table-bordered table-hover">
 					<tr align="center">
 						<td>Ana Luiza Gomes de Souza</td>
-						<td>Lucas Alves de Oliveira</td>
-						<td>Viviane Gomes da Silva</td>
+						<td>Eva Viana dos Santos</td>
+						<td>Elizangela Soares de Oliveira</td>
 					</tr>
 
 					<tr align="center">
 						<td>Alciene Jesus Pereira</td>
-						<td>Eva Viana dos Santos</td>
-						<td>Luan Alves de Oliveira</td>
+						<td>Ana Clara Rodrigues Oliveira</td>
+						<td>Teodolino Souza Oliveira</td>
 					</tr>
 					
 					<tr align="center">
 						<td>Brenda Teixeira Batista</td>
 						<td>Maria Aparecida Batista de Souza</td>
-						<td>Estefani Teixeira Batista</td>
+						<td>Deusdete Gomes Pego</td>
 					</tr>
 
 					<tr align="center">
 						<td>Carlos Roberto Rodrigo Ferreira</td>
 						<td>Maria de Lurdes Ribeiro Soares</td>
-						<td>Edriana Gomes de Souza</td>
+						<td>Jade Neves Rodrigues Teixeira</td>
 					</tr>
 
 					<tr align="center">
 						<td>Cleumaiquer Deacis Gomes Alecrim</td>
 						<td>Raquel Rodrigues Vieira</td>
-						<td>Valdomiro Gomes da Rocha</td>	
+						<td>Gilda Pereira dos Santos</td>	
 					</tr>
 
 					<tr align="center">
-						<td>Conceição Vieira dos Santos</td>
 						<td>Rhuan Henrique Pereira Silva</td>
-						<td>Gilda Pereira dos Santos</td>
-					</tr>
-
-					<tr align="center">
 						<td>Domicia Alves de Oliveira</td>
-						<td>Simone de Jesus Pereira</td>
+						<td>Jeferson Renan</td>
 					</tr>
 
 					<tr align="center">
-						<td>Deusdete Gomes Pego</td>
-						<td>Teodolino Souza Oliveira</td>
+						<td>Sabrina Ribeiro</td>
+						<td>Ezequiel Viana da Silva</td>
+						<td>Raquel Viana da Silva</td>
+					</tr>
+
+					<tr align="center">
+						<td>Nicolas Teixeira Batista</td>
 					</tr>
 				</table>
 			</div><!--End Table-responsive-->

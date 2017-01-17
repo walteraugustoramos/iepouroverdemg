@@ -40,7 +40,7 @@
         <fieldset>
           <legend><center>Faça Seu Pedido De Oração</center></legend>
 
-          <form action="enviar_pedido_oracao.php" method="post" data-toggle="validator">
+          <form action="mail.php" method="post" data-toggle="validator">
             <div class="row">
               <div class="col-md-4 col-md-offset-2 form-group has-feedback">
                 <label for="nome">Nome: </label>
